@@ -66,8 +66,8 @@ nav > a {
     font-family: Helvetica, sans-serif;
     padding: 10px;
     font-weight: bold;
-    border-radius: 10px;
-    margin-right: 7px;
+    border-radius: 15px;
+    margin-right: 10px;
     transition-duration: 0.5s;
 }
 
